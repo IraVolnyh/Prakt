@@ -1,0 +1,6 @@
+# Ignore the .idea folder created by WebStorm
+.idea/
+
+# Ignore the temporary files
+*.log
+*.tmp
